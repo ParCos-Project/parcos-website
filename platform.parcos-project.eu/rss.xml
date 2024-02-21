@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://platform.parcos-project.eu/">
+  <channel>
+    <title>ParCos Platform</title>
+    <link>https://platform.parcos-project.eu/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Harry John</title>
+  <link>https://platform.parcos-project.eu/node/112</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Harry John&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Sun, 03/20/2016 - 23:18&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-position field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Position&lt;/div&gt;
+              &lt;div class="field__item"&gt;Technical Lead&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Image&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2016-03/client4.jpg" width="170" height="170" alt="Harry John" loading="lazy" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Sun, 20 Mar 2016 22:18:25 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">112 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>FLAT LOGO DESIGN</title>
+  <link>https://platform.parcos-project.eu/https%3A//tahsinurrahman.com/team-members</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FLAT LOGO DESIGN&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 03/04/2016 - 08:15&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Inbox Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum recusandae rem animi accusamus quisquam reprehenderit sed voluptates, numquam, quibusdam velit dolores repellendus tempora corrupti accusantium obcaecati voluptate totam eveniet laboriosam.&lt;/p&gt;
+
+&lt;p&gt;Inbox Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum recusandae rem animi accusamus quisquam reprehenderit sed voluptates, numquam, quibusdam velit dolores repellendus tempora corrupti.&lt;/p&gt;
+&lt;/div&gt;
+      	
+						  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2016-03/porto1.jpg" width="600" height="600" alt="Flat Logo Design" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+			
+      &lt;div class="field field--name-field-portfolio-categories field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://platform.parcos-project.eu/taxonomy/term/10" hreflang="en"&gt;Design&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  </description>
+  <pubDate>Fri, 04 Mar 2016 07:15:08 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">56 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>LUT University</title>
+  <link>https://platform.parcos-project.eu/team/john-boris</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;LUT University&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 03/02/2016 - 11:39&lt;/span&gt;
+
+            &lt;div class="field field--name-field-position field--type-string field--label-hidden field__item"&gt;Finnish Case Study&lt;/div&gt;
+      
+      &lt;div class="field field--name-field-image field--type-image field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2022-08/lut-university-logo.png" width="1200" height="627" alt="LUT university Logo" loading="lazy" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+      &lt;a href="https://www.facebook.com/innovationtheme" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-facebook"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://twitter.com/PremiumDrupalThemes" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-twitter"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://vimeo.com" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-vimeo"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+</description>
+  <pubDate>Wed, 02 Mar 2016 10:39:08 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">51 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>LUCA School of ARTS</title>
+  <link>https://platform.parcos-project.eu/team/nix-maxwell</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;LUCA School of ARTS&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 03/02/2016 - 11:37&lt;/span&gt;
+
+      &lt;div class="field field--name-field-image field--type-image field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2022-08/luca_school_of_arts_v_png_0-2-4_0.png" width="584" height="458" alt="luca_logo" loading="lazy" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+      &lt;a href="https://www.facebook.com/innovationtheme" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-facebook"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://twitter.com/PremiumDrupalThemes" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-twitter"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://youtube.com" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-youtube"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+</description>
+  <pubDate>Wed, 02 Mar 2016 10:37:56 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">50 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>KWMC</title>
+  <link>https://platform.parcos-project.eu/team/jack-smith</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;KWMC&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 03/02/2016 - 11:34&lt;/span&gt;
+
+      &lt;div class="field field--name-field-image field--type-image field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2022-08/KWMC_Logo_Black-02-3.png" width="1024" height="381" alt="KWMC_Logo" loading="lazy" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+      &lt;a href="https://www.facebook.com/innovationtheme" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-facebook"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://vimeo.com" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-vimeo"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://instagram.com" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-instagram"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+</description>
+  <pubDate>Wed, 02 Mar 2016 10:34:19 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">49 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>Mintlab</title>
+  <link>https://platform.parcos-project.eu/team/john-doe</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Mintlab&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 03/02/2016 - 11:33&lt;/span&gt;
+
+      &lt;div class="field field--name-field-image field--type-image field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2022-08/Mintlab_logo_RGB-2.png" width="945" height="354" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+      &lt;a href="https://www.facebook.com/innovationtheme" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-facebook"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://twitter.com/PremiumDrupalThemes" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-twitter"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://linkedin.com" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-linkedin"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+</description>
+  <pubDate>Wed, 02 Mar 2016 10:33:23 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">48 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>VRT</title>
+  <link>https://platform.parcos-project.eu/team/mike-ehrmantraut</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;VRT&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 03/02/2016 - 11:31&lt;/span&gt;
+
+      &lt;div class="field field--name-field-image field--type-image field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2022-08/VRT-logo_blue-pos_white-rgb-3-1024x1024.png" width="1024" height="1024" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;/div&gt;
+      &lt;a href="https://www.facebook.com/innovationtheme" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-facebook"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://twitter.com/PremiumDrupalThemes" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-twitter"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+    &lt;a href="https://youtube.com" class="inv-social-icon" target="_blank"&gt;  
+  &lt;i class="fa fa-youtube"&gt;&lt;/i&gt;  
+  &lt;/a&gt;
+</description>
+  <pubDate>Wed, 02 Mar 2016 10:31:36 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">47 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>Tech Company White</title>
+  <link>https://platform.parcos-project.eu/node/42</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Tech Company White&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 03/01/2016 - 08:07&lt;/span&gt;
+
+  &lt;div class="field field--name-field-image field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Logo&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2016-03/logo7.png" width="210" height="40" alt="Tech Company White" loading="lazy" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-partner-url field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Url&lt;/div&gt;
+              &lt;div class="field__item"&gt;#&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 01 Mar 2016 07:07:40 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">42 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>Creating stories with science data</title>
+  <link>https://platform.parcos-project.eu/creating-stories-with-science-data</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Creating stories with science data&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 02/26/2016 - 04:24&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;TOOL: Storyteller (Sandy LUCA arts)&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Background&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;What is it?&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;How to Use it&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Explore Further&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Links to useful resources&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 26 Feb 2016 03:24:45 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">37 at https://platform.parcos-project.eu</guid>
+    </item>
+<item>
+  <title>FLY ON THE SKY</title>
+  <link>https://platform.parcos-project.eu/content/portfolio/fly-on-the-sky</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FLY ON THE SKY&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://platform.parcos-project.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 02/26/2016 - 04:23&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Inbox Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum recusandae rem animi accusamus quisquam reprehenderit sed voluptates, numquam, quibusdam velit dolores repellendus tempora corrupti accusantium obcaecati voluptate totam eveniet laboriosam.&lt;/p&gt;
+
+&lt;p&gt;Inbox Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum recusandae rem animi accusamus quisquam reprehenderit sed voluptates, numquam, quibusdam velit dolores repellendus tempora corrupti.&lt;/p&gt;
+&lt;/div&gt;
+      	
+						  &lt;img src="https://platform.parcos-project.eu/sites/default/files/2016-02/porto3.jpg" width="600" height="600" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+			
+      &lt;div class="field field--name-field-portfolio-categories field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://platform.parcos-project.eu/taxonomy/term/12" hreflang="en"&gt;Printing&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://platform.parcos-project.eu/taxonomy/term/11" hreflang="en"&gt;Photography&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  </description>
+  <pubDate>Fri, 26 Feb 2016 03:23:30 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">36 at https://platform.parcos-project.eu</guid>
+    </item>
+
+  </channel>
+</rss>
